@@ -1,8 +1,2 @@
-int main()
-{
-float r;
-cout << "Enter value of radius: "; 
-cin >> r;
-
-cout << 3.14*(r*r);
-}
+S1: Identify the no. of rows = n
+S2: Identify the no. of col 

@@ -8,17 +8,10 @@ using namespace std;
 
 int main()
 {
-int a,b,c;
-cout << "Enter an integer : "; 
-cin >> a;
-cin >> b;
-cin >> c;
-
-
-
+int a = 20,b =15,c =10;
 if (a>b && a>c)
 {
-  cout << "A";
+cout << "A";
 }
 else if (b>a && b>c)
 {
@@ -27,9 +20,4 @@ else if (b>a && b>c)
 else if (c>b && c>a)
 {
    cout << "C";
-}
-
-
-
-
-}
+}}

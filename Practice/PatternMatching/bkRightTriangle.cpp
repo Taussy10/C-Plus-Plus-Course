@@ -1,5 +1,5 @@
-/*
-S1: Identify the no. of rows = n
+
+/*S1: Identify the no. of rows = n
 S2: Identify the no. of col 
 col = 1 col = 5 then 
 rows = 2 col = 4  rows = 5 col = 1 
@@ -24,9 +24,7 @@ means we have to run 3 times in col
  n-0  r = 1 col  = 3  
 * * *  n-0(row)  and 1 is row here we start from 0 so looop will work from 0 to n (including n ) but we don't want  0 so start from n
 * * n-1 
-*  n-2
-
-*/
+*  n-2 */
 
 
 
