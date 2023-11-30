@@ -79,7 +79,4 @@ cout << * p1 <<endl;
 //Updating the valeu of x 
 * p1 = 32;
 cout << * p1;
-
-
 }
-
