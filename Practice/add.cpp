@@ -40,19 +40,3 @@ while (n>0)
 }
 cout << sum;
 }
-
-/*
-#include <iostream>
-using namespace std;
-
-int main()
-{
-int n,f,l,sum;
-cout << "Enter the number: "; 
-cin >> n;
-f = n/10;
-l = n%10;
-sum = l+f;
-cout << sum;
-}
-*/

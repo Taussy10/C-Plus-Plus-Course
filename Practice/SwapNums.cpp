@@ -6,9 +6,9 @@ int main() {
     int n;
     int a = 2;
     int b = 4;
-    int Temp = a;
+    int temp = a;
     a = b;
-    b = Temp;
+    b = temp;
     cout <<a <<endl <<b; 
     // cout << "Enter the number of rows: ";
     // cin >> n;    

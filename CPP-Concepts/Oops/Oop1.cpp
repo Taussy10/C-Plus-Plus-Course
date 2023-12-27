@@ -40,12 +40,12 @@ class Employee{
     public:
     int d,e;
 
-    // Step:3 making function for 
+    // Step:3 Call the function setData that you made for putting values into
     // setData is the method by which can set data of public members(a,b,c);
     // Caution: we can setData only for public members
     void setData(int a1, int b1 , int c1, int f1  ); //Declaration
 
-   // getData is method by which can acess the data of public members cuase they are public 
+   // getData is method/function by which can acess the data of public members cuase they are public 
    // Caution: we can getData only for only  public members cause they are public 
     void getData(){
     cout <<"The  value of a is " <<a <<endl;
@@ -59,7 +59,8 @@ class Employee{
     
 };
 
-// We put data into setData 
+
+//Defining the function setData and  We put public data into Employee class thorugh setData 
 void Employee :: setData(int a1 , int b1, int c1 , int f1){ 
 
   a = a1;
